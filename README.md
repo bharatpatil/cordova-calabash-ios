@@ -1,4 +1,4 @@
 cordova-calabash-ios
 ====================
 
-Integrating calabash with iOS
+Integrating calabash with cordova iOS
